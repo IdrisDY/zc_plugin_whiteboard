@@ -1,0 +1,26 @@
+body{
+  background-color: #FFFFFF;
+}
+
+.toolbar-wrapper {
+  background-color: #FFFFFF;
+  width: 544px;
+  height: 59px;
+  border-radius: 9px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid #E1E1E1
+}
+.icon{
+  border: 1px solid #C4C4C4;
+  border-radius: 10px;
+  box-sizing: border-box;
+  padding: 10px 10px 5px 10px;
+}
+.icon:hover {
+  background-color: #00B87C;
+  margin-top: 4px;
+}
+
